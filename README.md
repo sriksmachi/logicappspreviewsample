@@ -1,4 +1,4 @@
-# logicappspreviewsample
+# Logic Apps meet Azure Functions Runtime
 Contains sample code for working with Logic Apps Preview
 
 ## About
